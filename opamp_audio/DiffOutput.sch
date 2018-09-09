@@ -1,0 +1,329 @@
+EESchema Schematic File Version 4
+LIBS:DiffOutput-cache
+EELAYER 26 0
+EELAYER END
+$Descr A 11000 8500
+encoding utf-8
+Sheet 1 1
+Title ""
+Date ""
+Rev ""
+Comp ""
+Comment1 ""
+Comment2 ""
+Comment3 ""
+Comment4 ""
+$EndDescr
+$Comp
+L 4ms-passives:R R29
+U 1 1 5899FC99
+P 3725 2200
+AR Path="/5899FC99" Ref="R29"  Part="1" 
+AR Path="/5899B4AE/5899FC99" Ref="R29"  Part="1" 
+F 0 "R29" V 3925 2200 50  0000 C CNN
+F 1 "7.15k" V 3825 2200 50  0000 C CNN
+F 2 "4ms-footprints:R0603" V 3609 2200 50  0001 C CNN
+F 3 "" H 3725 2200 50  0000 C CNN
+	1    3725 2200
+	0    1    1    0   
+$EndComp
+$Comp
+L 4ms-passives:R R31
+U 1 1 5899FC9B
+P 3750 3175
+AR Path="/5899FC9B" Ref="R31"  Part="1" 
+AR Path="/5899B4AE/5899FC9B" Ref="R31"  Part="1" 
+F 0 "R31" V 3850 3175 50  0000 C CNN
+F 1 "715" V 3950 3175 50  0000 C CNN
+F 2 "4ms-footprints:R0603" V 3634 3175 50  0001 C CNN
+F 3 "" H 3750 3175 50  0000 C CNN
+	1    3750 3175
+	0    -1   1    0   
+$EndComp
+$Comp
+L 4ms-passives:R R32
+U 1 1 5899FCB4
+P 3750 3875
+AR Path="/5899FCB4" Ref="R32"  Part="1" 
+AR Path="/5899B4AE/5899FCB4" Ref="R32"  Part="1" 
+F 0 "R32" V 3675 3875 50  0000 C CNN
+F 1 "7.15k" V 3600 3875 50  0000 C CNN
+F 2 "4ms-footprints:R0603" V 3634 3875 50  0001 C CNN
+F 3 "" H 3750 3875 50  0000 C CNN
+	1    3750 3875
+	0    1    1    0   
+$EndComp
+$Comp
+L 4ms-passives:R R30
+U 1 1 5899FCB5
+P 3750 2975
+AR Path="/5899FCB5" Ref="R30"  Part="1" 
+AR Path="/5899B4AE/5899FCB5" Ref="R30"  Part="1" 
+F 0 "R30" V 3850 2975 50  0000 C CNN
+F 1 "2.7k" V 3950 2975 50  0000 C CNN
+F 2 "4ms-footprints:R0603" V 3634 2975 50  0001 C CNN
+F 3 "" H 3750 2975 50  0000 C CNN
+	1    3750 2975
+	0    -1   -1   0   
+$EndComp
+$Comp
+L 4ms-passives:R R36
+U 1 1 5899FCB6
+P 4175 2975
+AR Path="/5899FCB6" Ref="R36"  Part="1" 
+AR Path="/5899B4AE/5899FCB6" Ref="R36"  Part="1" 
+F 0 "R36" V 4275 2975 50  0000 C CNN
+F 1 "1.5k" V 4375 2975 50  0000 C CNN
+F 2 "4ms-footprints:R0603" V 4059 2975 50  0001 C CNN
+F 3 "" H 4175 2975 50  0000 C CNN
+	1    4175 2975
+	0    -1   -1   0   
+$EndComp
+$Comp
+L 4ms-passives:R R37
+U 1 1 5899FCB7
+P 4175 3175
+AR Path="/5899FCB7" Ref="R37"  Part="1" 
+AR Path="/5899B4AE/5899FCB7" Ref="R37"  Part="1" 
+F 0 "R37" V 4275 3175 50  0000 C CNN
+F 1 "1.5k" V 4375 3175 50  0000 C CNN
+F 2 "4ms-footprints:R0603" V 4059 3175 50  0001 C CNN
+F 3 "" H 4175 3175 50  0000 C CNN
+	1    4175 3175
+	0    1    1    0   
+$EndComp
+$Comp
+L 4ms-passives:C_Small C28
+U 1 1 5899FCB8
+P 3050 2475
+AR Path="/5899FCB8" Ref="C28"  Part="1" 
+AR Path="/5899B4AE/5899FCB8" Ref="C28"  Part="1" 
+F 0 "C28" V 3200 2525 50  0000 L CNN
+F 1 "240pF" V 3125 2525 50  0000 L CNN
+F 2 "4ms-footprints:C0603" H 3050 2475 50  0001 C CNN
+F 3 "" H 3050 2475 50  0000 C CNN
+	1    3050 2475
+	0    1    -1   0   
+$EndComp
+$Comp
+L 4ms-passives:C_Small C27
+U 1 1 5899FCB9
+P 3025 3725
+AR Path="/5899FCB9" Ref="C27"  Part="1" 
+AR Path="/5899B4AE/5899FCB9" Ref="C27"  Part="1" 
+F 0 "C27" V 3075 3775 50  0000 L CNN
+F 1 "2.2nF" V 2975 3775 50  0000 L CNN
+F 2 "4ms-footprints:C0603" H 3025 3725 50  0001 C CNN
+F 3 "" H 3025 3725 50  0000 C CNN
+	1    3025 3725
+	0    1    -1   0   
+$EndComp
+$Comp
+L 4ms-passives:C_Small C30
+U 1 1 5899FCBB
+P 4150 2200
+AR Path="/5899FCBB" Ref="C30"  Part="1" 
+AR Path="/5899B4AE/5899FCBB" Ref="C30"  Part="1" 
+F 0 "C30" V 4025 2125 50  0000 L CNN
+F 1 "3.6nF" V 3950 2125 50  0000 L CNN
+F 2 "4ms-footprints:C0603" H 4150 2200 50  0001 C CNN
+F 3 "" H 4150 2200 50  0000 C CNN
+	1    4150 2200
+	0    1    -1   0   
+$EndComp
+Text Label 4550 2975 0    60   ~ 0
+AOUTB1_M
+Text Label 4550 3175 0    60   ~ 0
+AOUTB1_P
+Wire Wire Line
+	3325 3175 3500 3175
+Wire Wire Line
+	2625 2200 2625 2475
+Wire Wire Line
+	2350 3075 2625 3075
+Connection ~ 2625 3075
+Wire Wire Line
+	3325 2975 3500 2975
+Wire Wire Line
+	3900 3175 3950 3175
+Wire Wire Line
+	3900 2975 3950 2975
+Connection ~ 3950 3175
+Connection ~ 3950 2975
+Wire Wire Line
+	2625 2475 2950 2475
+Wire Wire Line
+	3150 2475 3500 2475
+Wire Wire Line
+	3500 2475 3500 2975
+Connection ~ 3500 2975
+Wire Wire Line
+	3500 3175 3500 3725
+Wire Wire Line
+	3500 3725 3125 3725
+Connection ~ 3500 3175
+Wire Wire Line
+	2925 3725 2650 3725
+Wire Wire Line
+	2650 3725 2650 3875
+Wire Wire Line
+	2650 3875 3600 3875
+Wire Wire Line
+	3950 3175 3950 3875
+Wire Wire Line
+	3950 3875 3900 3875
+Wire Wire Line
+	3950 2975 3950 2200
+Wire Wire Line
+	3875 2200 3950 2200
+Wire Wire Line
+	3575 2200 2625 2200
+Connection ~ 2625 2475
+Connection ~ 3950 2200
+Wire Wire Line
+	4250 2200 4450 2200
+Wire Wire Line
+	4450 2200 4450 2225
+$Comp
+L 4ms-ic:OPAMP-SPICE IC1
+U 1 1 5899FCC8
+P 3025 3075
+AR Path="/5899FCC8" Ref="IC1"  Part="1" 
+AR Path="/5899B4AE/5899FCC8" Ref="IC1"  Part="1" 
+F 0 "IC1" H 2900 3125 50  0000 L CNN
+F 1 "NJM2068" H 2825 3075 50  0000 L CNN
+F 2 "4ms-footprints:TSSOP-8_4.4x3mm_Pitch0.65mm" H 2925 3125 50  0001 C CNN
+F 3 "" H 3025 3225 50  0000 C CNN
+F 4 "X" H 3025 3075 50  0001 C CNN "Spice_Primitive"
+F 5 "njm2068_s" H 3025 3075 50  0001 C CNN "Spice_Model"
+F 6 "Y" H 3025 3075 50  0001 C CNN "Spice_Netlist_Enabled"
+F 7 "NJM2068_v2_NewJRC/njm2068_v2.lib" H 3025 3075 50  0001 C CNN "Spice_Lib_File"
+	1    3025 3075
+	-1   0    0    1   
+$EndComp
+Wire Wire Line
+	2625 3075 2725 3075
+Wire Wire Line
+	3950 3175 4025 3175
+Wire Wire Line
+	3950 2975 4025 2975
+Wire Wire Line
+	3500 2975 3600 2975
+Wire Wire Line
+	3500 3175 3600 3175
+Wire Wire Line
+	2625 2475 2625 3075
+Wire Wire Line
+	3950 2200 4050 2200
+$Comp
+L 4ms-power:GND #PWR0101
+U 1 1 5AB757C9
+P 2650 3875
+F 0 "#PWR0101" H 2650 3625 50  0001 C CNN
+F 1 "GND" H 2675 3650 50  0000 C CNN
+F 2 "" H 2650 3875 50  0001 C CNN
+F 3 "" H 2650 3875 50  0001 C CNN
+	1    2650 3875
+	1    0    0    -1  
+$EndComp
+Connection ~ 2650 3875
+$Comp
+L 4ms-power:GND #PWR0102
+U 1 1 5AB757F9
+P 4450 2225
+F 0 "#PWR0102" H 4450 1975 50  0001 C CNN
+F 1 "GND" H 4475 2000 50  0000 C CNN
+F 2 "" H 4450 2225 50  0001 C CNN
+F 3 "" H 4450 2225 50  0001 C CNN
+	1    4450 2225
+	1    0    0    -1  
+$EndComp
+$Comp
+L spice-basic:V V2
+U 1 1 5AB76B1F
+P 6175 3375
+F 0 "V2" V 6600 3350 60  0000 C CNN
+F 1 "AC 1" V 6450 3350 60  0000 C CNN
+F 2 "" H 6175 3375 50  0001 C CNN
+F 3 "" H 6175 3375 50  0001 C CNN
+F 4 "V" H 6175 3375 50  0001 C CNN "Spice_Primitive"
+F 5 "ac 2.5 180" H 6175 3375 50  0001 C CNN "Spice_Model"
+F 6 "Y" H 6175 3375 50  0001 C CNN "Spice_Netlist_Enabled"
+	1    6175 3375
+	0    -1   -1   0   
+$EndComp
+Wire Wire Line
+	4325 3175 5925 3175
+$Comp
+L 4ms-power:GND #PWR?
+U 1 1 5AB77ACF
+P 6475 3375
+F 0 "#PWR?" H 6475 3125 50  0001 C CNN
+F 1 "GND" H 6500 3150 50  0000 C CNN
+F 2 "" H 6475 3375 50  0001 C CNN
+F 3 "" H 6475 3375 50  0001 C CNN
+	1    6475 3375
+	1    0    0    -1  
+$EndComp
+$Comp
+L 4ms-power:GND #PWR?
+U 1 1 5AB7816B
+P 6475 2500
+F 0 "#PWR?" H 6475 2250 50  0001 C CNN
+F 1 "GND" H 6500 2275 50  0000 C CNN
+F 2 "" H 6475 2500 50  0001 C CNN
+F 3 "" H 6475 2500 50  0001 C CNN
+	1    6475 2500
+	1    0    0    -1  
+$EndComp
+$Comp
+L 4ms-power:+12V #PWR087
+U 1 1 5899FC97
+P 2925 3450
+F 0 "#PWR087" H 2925 3300 50  0001 C CNN
+F 1 "+12V" H 2925 3600 50  0000 C CNN
+F 2 "" H 2925 3450 50  0000 C CNN
+F 3 "" H 2925 3450 50  0000 C CNN
+	1    2925 3450
+	-1   0    0    -1  
+$EndComp
+Wire Wire Line
+	5925 2500 5925 2975
+Wire Wire Line
+	4325 2975 5925 2975
+Wire Wire Line
+	3125 3325 3125 3450
+Wire Wire Line
+	3125 3450 2925 3450
+Wire Wire Line
+	3125 2825 3125 2650
+Wire Wire Line
+	3125 2650 2875 2650
+$Comp
+L 4ms-power:-12VA #PWR086
+U 1 1 5899FC92
+P 2875 2650
+F 0 "#PWR086" H 2875 2500 50  0001 C CNN
+F 1 "-12VA" H 2875 2800 50  0000 C CNN
+F 2 "" H 2875 2650 50  0000 C CNN
+F 3 "" H 2875 2650 50  0000 C CNN
+	1    2875 2650
+	-1   0    0    1   
+$EndComp
+Wire Wire Line
+	5925 3175 5925 3375
+$Comp
+L spice-basic:V V1
+U 1 1 5AB36EC4
+P 6175 2500
+F 0 "V1" V 6600 2475 60  0000 C CNN
+F 1 "AC 1" V 6450 2475 60  0000 C CNN
+F 2 "" H 6175 2500 50  0001 C CNN
+F 3 "" H 6175 2500 50  0001 C CNN
+F 4 "V" H 6175 2500 50  0001 C CNN "Spice_Primitive"
+F 5 "ac 2.5 0" H 6175 2500 50  0001 C CNN "Spice_Model"
+F 6 "Y" H 6175 2500 50  0001 C CNN "Spice_Netlist_Enabled"
+	1    6175 2500
+	0    -1   -1   0   
+$EndComp
+$EndSCHEMATC

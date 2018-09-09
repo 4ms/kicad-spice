@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name spice-basic)(type Legacy)(uri ${KICAD_4MS_LIBS}/lib-sch/spice-basic.lib)(options "")(descr ""))
+)
